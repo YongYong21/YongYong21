@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=YogYong21&fontAlignY=45&fontSize=40&height=150&animation=fadeIn&desc=Yonghui%20park&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=YongYong21&fontAlignY=45&fontSize=40&height=150&animation=fadeIn&desc=Yonghui%20park&descAlignY=70)
 
 
 <div align = "center">
