@@ -20,7 +20,6 @@
   ---
   
   
-  ### Blog
-  <a href="https://yongyong21.github.io/">YongYong21.github.io</a>
+
   </div>
                                       
